@@ -1,7 +1,10 @@
 # INRE-UAL-GRIS-2026
 
 ## Soluciones de prácticas
-1. Lab 0 - Familiarización con MarkDown-VisualParadigm
+1. Lab 0 - Familiarización con MarkDown-VisualParadig
+2. Lab 1
+3. Lab 2
+4. Lab 3
 
 ## Colaboradores
 
